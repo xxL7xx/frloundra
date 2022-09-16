@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(background2.gif) no-repeat;
+  background: url(background.gif) no-repeat;
   background-size: cover;
 }
 .box{
@@ -86,4 +86,3 @@ img:hover {
   transform:scale(1.1);
   transition: all 0.2s ease-in-out;
 }
-
